@@ -9,7 +9,7 @@ const Quiz = () => {
     currentQuestionIndex: 0,
     userAnswers: [],
     isCompleted: false,
-    result: null,g
+    result: null,
   });
 
   // Handle answer selection
